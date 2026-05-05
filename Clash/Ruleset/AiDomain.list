@@ -2,7 +2,7 @@
 
 DOMAIN-SUFFIX,cerebras.ai
 
-# 内容：OpenAi,claude,recraft,poe,bing,gemini,perplexity
+# 内容：OpenAi,claude,recraft,poe,bing,perplexity
 
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,chatgpt
