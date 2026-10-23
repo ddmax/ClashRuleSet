@@ -39,6 +39,10 @@ DOMAIN-SUFFIX,console.anthropic.com
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudeusercontent.com
 
+#muse
+DOMAIN-SUFFIX,muse.ai
+
+
 #recraft
 DOMAIN-SUFFIX,recraft.ai
 
@@ -71,7 +75,6 @@ DOMAIN-SUFFIX,applicationinsights.azure.com
 
 #bing chat
 DOMAIN-KEYWORD,bing
-DOMAIN-KEYWORD,copilot
 DOMAIN-KEYWORD,edgeassetservice
 DOMAIN-SUFFIX,edgeservices.bing.com
 DOMAIN-SUFFIX,sydney.bing.com
