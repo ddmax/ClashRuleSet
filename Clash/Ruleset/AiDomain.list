@@ -39,6 +39,9 @@ DOMAIN-SUFFIX,console.anthropic.com
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudeusercontent.com
 
+#meta
+DOMAIN-SUFFIX,meta.ai
+
 #muse
 DOMAIN-SUFFIX,muse.ai
 
