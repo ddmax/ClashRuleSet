@@ -117,6 +117,10 @@ DOMAIN-SUFFIX,huobi.br.com
 PROCESS-NAME,Huobi.exe
 DOMAIN-KEYWORD,huobi
 
+# > HTX
+DOMAIN-SUFFIX,htx.com
+DOMAIN-SUFFIX,htx.net.in
+
 # > OKX
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,okx.com
